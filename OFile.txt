@@ -1,0 +1,24 @@
+************************************************
+* PROGRAMMED BY : Oscar Solis-Pacheco
+* CLASS 		: CS1B
+* SECTION 		: MTWTH: 5:00p - 7:20p
+* LAB # 6		: Structs
+************************************************
+
+Higher Balance:
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston		      $   1423.20
+
+Total Balance for all person:
+$   4080.48
+
+Search Names:
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston		      $   1423.20
+1008     Chris Carroll		      $     32.35
+1009     Lisa Covi		          $    332.35
+1010     Florence Rousseau		  $   1323.33
+
+			   Total Balance Due: $	  4534.43
