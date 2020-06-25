@@ -1,4 +1,4 @@
-# Structs-Practice
+# Structs Practice for Comp Sci:
 This program will search for a desired name on the list and then tell the user whether it was found or not. 
 
 Then, it will display the person with the highest balance. 
