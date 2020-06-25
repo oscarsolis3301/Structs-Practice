@@ -105,7 +105,7 @@ int main() {
 	inFile.open(inputFileName);
 	
 	// POPULATES THE ARRAYS
-	for (int i = 0; i < 10; i++) {
+	for (int i = 0; i < SIZE; i++) {
 		getline(inFile, peopleData.name[i]);
 		names[i] = peopleData.name[i];
 		inFile >> peopleData.id[i];
